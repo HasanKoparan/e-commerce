@@ -1,5 +1,7 @@
 # COSTY — E-Commerce Frontend
 
+[🌐 Live Demo](https://hasankoparan.github.io/e-commerce/)
+
 A responsive fashion storefront built with HTML, SCSS, and vanilla JavaScript. Browse products, manage your shopping cart, and keep your cart saved between visits.
 
 Developed by **Hasan Koparan** during the **Udemig full-stack training program**.
