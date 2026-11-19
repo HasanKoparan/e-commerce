@@ -98,7 +98,7 @@ const renderCartItems = (cart) => {
   <div class="message-text-container">
     <p class="message-text">Not found items in the basket</p>
     <p class="sub-text">Something went wrong</p>
-    <a href='/'>Go to home page</a>
+    <a href='./index.html'>Go to home page</a>
   </div>
   <svg
     xmlns="http://www.w3.org/2000/svg"
