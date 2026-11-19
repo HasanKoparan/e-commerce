@@ -55,7 +55,9 @@ const addToCart = (e, products) => {
 // Sepetten Ûrün kaldiran fonksiyon
 const removeFromCart = (e) => {
   // Kullanicidan silme islemi icin onay al
-  const response = confirm("Silme islemini onayliyor musunuz ?");
+  const response = confirm(
+    "Are you sure you want to remove this item from your cart?",
+  );
   // Eger kullanici silme islemini onayladiysa
   if (response) {
     // Tiklaninlan ürünün id´sine eris
